@@ -225,3 +225,4 @@ Crop artwork is AI-generated illustration. The optional crop models are procedur
 [**Try Agriplanner →**](https://www.agriplanner.space/) · [**Watch the demonstration →**](https://youtu.be/bGQB_GMVtp4)
 
 </div>
+
