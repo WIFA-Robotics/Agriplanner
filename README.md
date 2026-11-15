@@ -200,7 +200,7 @@ First, test whether farmers can complete the workflow and understand the compari
 
 | Team member | GitHub |
 | --- | --- |
-| **Mohammad (William) Farokhzad** | [@williamfarokhzad](https://github.com/williamfarokhzad) |
+| **William Farokhzad** | [@williamfarokhzad](https://github.com/williamfarokhzad) |
 | **Anna Piccinin** | [@annapiccinin](https://github.com/annapiccinin) |
 
 [Space Apps team page](https://www.spaceappschallenge.org/2026/find-a-team/wifa-robotics/) · [Challenge description](https://www.spaceappschallenge.org/2026/challenges/adapting-farms-with-nasa-data/)
